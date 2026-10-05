@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Platform-As-A-Service-PaaS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Platform-As-A-Service-PaaS?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Platform-As-A-Service-PaaS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Platform-As-A-Service-PaaS?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Platform-As-A-Service-PaaS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Platform-As-A-Service-PaaS?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Platform-As-A-Service-PaaS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Platform-As-A-Service-PaaS?color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,48 +60,48 @@ Whether you are looking for **git-push deployments**, **automated SSL certificat
 
 ## 🛠️ Open-Source GitHub Projects
 
-Below is a list of open-source self-hosted PaaS solutions, container engines, and deployment frameworks, **sorted by GitHub star count (descending)**:
+Below is a list of open-source self-hosted PaaS solutions, container engines, and deployment frameworks, **sorted by GitHub Stars_Count (descending)**:
 
-1. **[Coolify](https://github.com/coollabsio/coolify)** [![GitHub Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=social&color=white)](https://github.com/coollabsio/coolify/stargazers)  
+1. **[Coolify](https://github.com/coollabsio/coolify)** [![GitHub_Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=social&color=white)](https://github.com/coollabsio/coolify/stargazers)  
    🚀 **The leading open-source self-hosted PaaS** — Apache-2.0 licensed. Self-hostable alternative to Vercel, Heroku, Netlify, and Railway. Deploy applications, databases (PostgreSQL, MySQL, MongoDB, Redis), and 300+ services onto any VPS via SSH with Git-based automated deployments and automatic Let's Encrypt SSL.
 
-2. **[Dokploy](https://github.com/Dokploy/dokploy)** [![GitHub Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=social&color=white)](https://github.com/Dokploy/dokploy/stargazers)  
+2. **[Dokploy](https://github.com/Dokploy/dokploy)** [![GitHub_Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=social&color=white)](https://github.com/Dokploy/dokploy/stargazers)  
    🎨 **Modern open-source PaaS with polished UI** — Apache-2.0 licensed. A next-gen Vercel/Heroku alternative supporting Node.js, Python, PHP, Go, Rust, and Dockerfiles with automatic previews, Traefik routing, and multi-node setup.
 
-3. **[Dokku](https://github.com/dokku/dokku)** [![GitHub Stars](https://img.shields.io/github/stars/dokku/dokku?style=social&color=white)](https://github.com/dokku/dokku/stargazers)  
+3. **[Dokku](https://github.com/dokku/dokku)** [![GitHub_Stars](https://img.shields.io/github/stars/dokku/dokku?style=social&color=white)](https://github.com/dokku/dokku/stargazers)  
    ⚡ **The smallest PaaS implementation** — MIT licensed. Docker-powered Heroku alternative in ~100 lines of bash. Simple `git push dokku main` workflow with support for CNCF buildpacks and Dockerfiles on minimal VPS resources.
 
-4. **[Rancher](https://github.com/rancher/rancher)** [![GitHub Stars](https://img.shields.io/github/stars/rancher/rancher?style=social&color=white)](https://github.com/rancher/rancher/stargazers)  
+4. **[Rancher](https://github.com/rancher/rancher)** [![GitHub_Stars](https://img.shields.io/github/stars/rancher/rancher?style=social&color=white)](https://github.com/rancher/rancher/stargazers)  
    ☸️ **Enterprise Kubernetes Management Platform** — Apache-2.0 licensed. Multi-cluster management tool that simplifies enterprise container management across multi-cloud and on-premise infrastructure.
 
-5. **[CapRover](https://github.com/caprover/caprover)** [![GitHub Stars](https://img.shields.io/github/stars/caprover/caprover?style=social&color=white)](https://github.com/caprover/caprover/stargazers)  
+5. **[CapRover](https://github.com/caprover/caprover)** [![GitHub_Stars](https://img.shields.io/github/stars/caprover/caprover?style=social&color=white)](https://github.com/caprover/caprover/stargazers)  
    🖥️ **User-friendly Web GUI PaaS** — Apache-2.0 licensed. Docker Swarm-backed platform with 1-click deployments for WordPress, MySQL, Nginx, and 100+ applications without command-line overhead.
 
-6. **[Kamal](https://github.com/basecamp/kamal)** [![GitHub Stars](https://img.shields.io/github/stars/basecamp/kamal?style=social&color=white)](https://github.com/basecamp/kamal/stargazers)  
+6. **[Kamal](https://github.com/basecamp/kamal)** [![GitHub_Stars](https://img.shields.io/github/stars/basecamp/kamal?style=social&color=white)](https://github.com/basecamp/kamal/stargazers)  
    📦 **Zero-orchestration Docker deployment tool** — MIT licensed (formerly MRSK by 37signals). Deploys web apps from bare metal to cloud VMs using Docker over SSH with zero-downtime rolling updates.
 
-7. **[OpenShift](https://github.com/openshift/origin)** [![GitHub Stars](https://img.shields.io/github/stars/openshift/origin?style=social&color=white)](https://github.com/openshift/origin/stargazers)  
+7. **[OpenShift](https://github.com/openshift/origin)** [![GitHub_Stars](https://img.shields.io/github/stars/openshift/origin?style=social&color=white)](https://github.com/openshift/origin/stargazers)  
    🏢 **Enterprise Kubernetes PaaS distribution** — Red Hat's open-source origin platform with developer-first Source-to-Image (S2I) pipelines and enterprise security governance.
 
-8. **[Flynn](https://github.com/flynn/flynn)** [![GitHub Stars](https://img.shields.io/github/stars/flynn/flynn?style=social&color=white)](https://github.com/flynn/flynn/stargazers) *(Archived)*  
+8. **[Flynn](https://github.com/flynn/flynn)** [![GitHub_Stars](https://img.shields.io/github/stars/flynn/flynn?style=social&color=white)](https://github.com/flynn/flynn/stargazers) *(Archived)*  
    🏛️ **Classic open-source PaaS** — Docker-based Heroku-like platform providing historical reference for modular PaaS control planes.
 
-9. **[Rainbond](https://github.com/goodrain/rainbond)** [![GitHub Stars](https://img.shields.io/github/stars/goodrain/rainbond?style=social&color=white)](https://github.com/goodrain/rainbond/stargazers)  
+9. **[Rainbond](https://github.com/goodrain/rainbond)** [![GitHub_Stars](https://img.shields.io/github/stars/goodrain/rainbond?style=social&color=white)](https://github.com/goodrain/rainbond/stargazers)  
    ☁️ **Cloud-native application delivery platform** — Cloud-native computing platform focusing on non-intrusive microservices and zero-K8s learning curve.
 
-10. **[Devtron](https://github.com/devtron-labs/devtron)** [![GitHub Stars](https://img.shields.io/github/stars/devtron-labs/devtron?style=social&color=white)](https://github.com/devtron-labs/devtron/stargazers)  
+10. **[Devtron](https://github.com/devtron-labs/devtron)** [![GitHub_Stars](https://img.shields.io/github/stars/devtron-labs/devtron?style=social&color=white)](https://github.com/devtron-labs/devtron/stargazers)  
     🔒 **K8s software delivery dashboard** — Integrated no-code CI/CD pipeline, GitOps engine, and security scanner tailored for Kubernetes clusters.
 
-11. **[Piku](https://github.com/piku/piku)** [![GitHub Stars](https://img.shields.io/github/stars/piku/piku?style=social&color=white)](https://github.com/piku/piku/stargazers)  
+11. **[Piku](https://github.com/piku/piku)** [![GitHub_Stars](https://img.shields.io/github/stars/piku/piku?style=social&color=white)](https://github.com/piku/piku/stargazers)  
     🐍 **Ultra-lightweight git-push PaaS** — Inspired by Dokku, written in ~200 lines of Python. Ideal for ARM devices, Raspberry Pis, and minimal VPS servers.
 
-12. **[Tsuru](https://github.com/tsuru/tsuru)** [![GitHub Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=social&color=white)](https://github.com/tsuru/tsuru/stargazers)  
+12. **[Tsuru](https://github.com/tsuru/tsuru)** [![GitHub_Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=social&color=white)](https://github.com/tsuru/tsuru/stargazers)  
     🏢 **Extensible multi-tenant PaaS** — Apache-2.0 licensed container platform supporting Python, Go, Node.js, and Ruby for enterprise deployments.
 
-13. **[Kubero](https://github.com/kubero-dev/kubero)** [![GitHub Stars](https://img.shields.io/github/stars/kubero-dev/kubero?style=social&color=white)](https://github.com/kubero-dev/kubero/stargazers)  
+13. **[Kubero](https://github.com/kubero-dev/kubero)** [![GitHub_Stars](https://img.shields.io/github/stars/kubero-dev/kubero?style=social&color=white)](https://github.com/kubero-dev/kubero/stargazers)  
     ⚓ **Kubernetes-native developer PaaS** — Developer dashboard bringing Heroku DX and GitOps workflows directly to Kubernetes.
 
-14. **[KubeVela](https://github.com/kubevela/kubevela)** [![GitHub Stars](https://img.shields.io/github/stars/kubevela/kubevela?style=social&color=white)](https://github.com/kubevela/kubevela/stargazers)  
+14. **[KubeVela](https://github.com/kubevela/kubevela)** [![GitHub_Stars](https://img.shields.io/github/stars/kubevela/kubevela?style=social&color=white)](https://github.com/kubevela/kubevela/stargazers)  
     🧩 **Application delivery engine for Kubernetes** — Open Application Model (OAM) abstraction layer simplifying multi-cloud application delivery.
 
 ---
